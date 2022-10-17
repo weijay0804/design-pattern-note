@@ -7,3 +7,9 @@
 * 可以隨時加入新的觀察者
 * 如果要加入新的觀察者類型，不需要修改 subject
 * 可以重複利用 subject 或觀察者，又不會影響對方
+
+### 觀察者模式 UML
+![UML](/Chapter2-Observer/docs/observer.png)
+
+### 實際例子
+![UML](/Chapter2-Observer/docs/weather-station.png)
